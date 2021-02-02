@@ -5,5 +5,6 @@ public class Main {
 		System.out.println("Hello cat");
 				System.out.println("Hello dog");
 				System.out.println("Hello mouse");
+				System.out.println("Hello Minsk");
 	}
 }
