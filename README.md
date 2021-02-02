@@ -1,3 +1,3 @@
 # IBA_Java_1.20
-Kurylo Aleksei
+# Kurylo Aleksei
 Программирование приложений информационных систем.
