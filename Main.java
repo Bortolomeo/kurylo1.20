@@ -7,6 +7,7 @@ public class Main {
 				System.out.println("Hello mouse");
 				System.out.println("Hello Minsk");
 				System.out.println("Hello git");
+		System.out.println("Hello git load");
 
 
 	}
